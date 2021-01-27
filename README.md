@@ -24,7 +24,7 @@ This app highlights some basic React concepts like:
 
 ## Sample Images
 
-<img src='https://github.com/crrojas88/monster-rolodex/blob/main/monster-rolodex.gif' alt="gif" width="500" height="320" />
+<img src='https://github.com/crrojas88/monster-rolodex/blob/main/monster-rolodex.gif' alt="gif" width="500" height="320"/>
 
 ## Licence
 
