@@ -2,12 +2,13 @@
 ---
 Welcome to Monster Rolodex! A very bare bones React app that filters monsters based on what you type in the search bar.
 
-##Motivation
+## Motivation
 ---
 I wanted to create a simple React JS app that showcases the versatility of React and the React library with some basic concepts.
 
 
-##Functionality
+## Functionality
+---
 This app highlights some basic React concepts like:
 
 - Component architecture
@@ -18,6 +19,12 @@ This app highlights some basic React concepts like:
 - Class methods and arrow functions
 - Fetching and mounting
 
+## Sample Images
+---
 
 
-This app was created by Rodrigo Rojas.
+
+## Licence
+---
+
+MIT © Rodrigo Rojas
